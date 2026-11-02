@@ -15,5 +15,5 @@ Here is a link: [Microsoft Entra documentation](https://learn.microsoft.com/entr
 
 ![A practice screenshot](myIAM_screenshot.png)
 
-![A practice screenshot](screenshots/about.md)
+![A practice screenshot](screenshots/myIAM_screenshot.png)
 
