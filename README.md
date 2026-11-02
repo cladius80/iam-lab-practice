@@ -15,4 +15,4 @@ Here is a link: [Microsoft Entra documentation](https://learn.microsoft.com/entr
 
 ![A practice screenshot](myIAM_screenshot.png)
 
-![A practice screenshot](Screenshot practice-IAM.png)
+![A practice screenshot](Screenshotpractice-IAM.png)
